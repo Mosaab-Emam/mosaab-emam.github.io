@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Mosaab Emam</GradientText> 👋
         </>
       }
       description={
@@ -36,28 +36,22 @@ const Hero = () => (
       }
       socialButtons={
         <>
-          <a href="/">
+          <a target="_blank" href="https://twitter.com/EmamMosaab">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
             />
           </a>
-          <a href="/">
+          <a target="_blank" href="https://facebook.com/Mosaab-Emam">
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
             />
           </a>
-          <a href="/">
+          <a target="_blank" href="https://linkedin.com/mosaab-emam">
             <HeroSocial
               src="/assets/images/linkedin-icon.png"
               alt="Linkedin icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/youtube-icon.png"
-              alt="Youtube icon"
             />
           </a>
         </>

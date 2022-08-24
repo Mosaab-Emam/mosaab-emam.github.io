@@ -1,5 +1,5 @@
 {
-  "name": "astro-boilerplate",
+  "name": "mosaab-emam.github.io",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -55,7 +55,7 @@
   "volta": {
     "node": "16.15.1"
   },
-  "author": "Ixartz (https://github.com/ixartz)",
+  "author": "Mosaab Emam <mosaab.emam123@gmail.com> (https://github.com/Mosaab-Emam)",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
